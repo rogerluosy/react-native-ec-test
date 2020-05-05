@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "search.exclude": {
+    "**/node_modules": false
+  },
+  "vetur.format.defaultFormatterOptions": {
+    "js-beautify-html": {
+      "wrap_attributes": "aligned-multiple"
+    }
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
